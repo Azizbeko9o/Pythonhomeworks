@@ -1,23 +1,3 @@
-# obj1 = Car('BMW M5 F90', "black", "v8 4.4 l", "627hp", "2.8")
-# obj2 = Car('Dodge Demon', "grey", "v8 6.2 l", "1025hp", "1.8")
-# obj3 = Car('Mercedes G63', "mat black", "v8 4.0 l", "585hp", "4.5")
-# obj4 = Car('mers cls 550', "white", "v8 5.5 l", "577hp ", "5.0")
-# print(obj4.car_info())
-# class Student:
-#     def __init__(self, id, name, course, phone):
-#         self.id = id
-#         self.name = name
-#         self.course = course
-#         self.phone = phone
-# def get_info(self):
-#     return self.id, self.name, self.course, self.phone
-# def id_info(self):
-#     return f'info: {self.id}\n name: {self.name}\n course: {self.course}\n phone: {self.phone}\n'
-# obj1 = Student('01/1123', 'Azizbek', '1', '+998938068090')
-# print(obj1.id_info)
-#         # self.id = '011.1123'
-#         # self.name = 'Azizbek'
-#         # self.course = ''
 ##### numeric
 import math # built in library 
 # pow = ** - built-in function
